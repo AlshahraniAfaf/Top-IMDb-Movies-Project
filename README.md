@@ -55,7 +55,7 @@ Direct high-level visibility into core project scope metrics:
 ## 📸 Screenshots
 
 ### 1. Dashboard Overview Page
-![Overview Page](YOUR_HOME_PAGE_IMAGE_LINK_HERE)
+![Overview Page]([YOUR_HOME_PAGE_IMAGE_LINK_HERE](https://github.com/AlshahraniAfaf/Top-IMDb-Movies-Project/blob/main/Overview_Screenshot.png))
 
 ### 2. Dashboard Insights
 ![Dashboard Insights](YOUR_DASHBOARD_IMAGE_LINK_HERE)
