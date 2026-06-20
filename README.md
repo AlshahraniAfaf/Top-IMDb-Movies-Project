@@ -58,7 +58,7 @@ Direct high-level visibility into core project scope metrics:
 ![Overview Page](https://github.com/AlshahraniAfaf/Top-IMDb-Movies-Project/blob/main/Overview_Screenshot.png)
 
 ### 2. Dashboard Insights
-![Dashboard Insights]([YOUR_DASHBOARD_IMAGE_LINK_HERE](https://github.com/AlshahraniAfaf/Top-IMDb-Movies-Project/blob/main/Insights_Screenshot.png)
+![Insights Page](https://github.com/AlshahraniAfaf/Top-IMDb-Movies-Project/blob/main/Insights_Screenshot.png)
 
 ---
 Developed by: Afaf Alshahrani
